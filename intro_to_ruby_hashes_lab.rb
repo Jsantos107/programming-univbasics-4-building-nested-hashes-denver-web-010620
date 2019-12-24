@@ -1,5 +1,5 @@
 def base_hash
-new.hash={}
+new_hash={ }
 	{}
 end
 
